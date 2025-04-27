@@ -1,1 +1,1 @@
-# Python-Practices-with-notes-zero-to-hero
+Here is the python practices of all minor to major concepts , it helps to good knowledge of python code. Also implement databases like mongodb and mysql both, using python. and complete python, mongob, mysql notes in the pdf format easy to understand and easy to reach to the chapters. because in indexes i have create the hyperlinks of all chapters or if you need to go to the index page for other chapter you just click the chapter heading you will reach the index page. Chapter heading is also hyperlink.
